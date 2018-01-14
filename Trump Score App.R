@@ -25,7 +25,6 @@ Git_url <- a("Github here.", href="https://github.com/Deleetdk/USA.county.data")
 Kaggle_url <- a("Kaggle here.", href="https://www.kaggle.com/benhamner/2016-us-election/data")
 shape_url <- a("Census Bureau's MAF/TIGER geographic database.", href="https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html")
 
-#setwd("C:/Users/Louis/Desktop/Alabama/AL_App")
 load("ScoreGeoData2.RData")
 
 ui <- shinyUI(

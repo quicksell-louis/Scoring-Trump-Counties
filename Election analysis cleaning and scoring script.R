@@ -10,6 +10,7 @@ library(C50)
 library(pROC)
 library(mda)
 
+
 setwd("C:/Users/Louis/Desktop/MSTI Application/US Primary Election Analysis")
 
 load("USA_county_data.RData")
